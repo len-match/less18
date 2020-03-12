@@ -70,5 +70,4 @@ function createList(value, checked, init) {
 
 
     if (!init) return toDoList.push(liObj);
-
 }
